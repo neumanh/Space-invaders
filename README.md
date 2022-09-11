@@ -1,5 +1,5 @@
 # Space-invaders
-Java implements of the classic space invaders game. Project in the Object Oriented course - BIU
+Java implements of the classic space invaders game. Project in the Object Oriented course of Prof. Yoav Goldenmerg and Ayal Dayan at the Bar-Ilan University.
 
 This project implements a version of the classic space invaders game. It is based on the sixth assignment (Popcorn) with small changes (see below). The implementation of the main features is as follow:
 ## Aliens formation
